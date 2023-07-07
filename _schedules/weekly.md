@@ -18,49 +18,28 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
+  - '9:00 PM'
+  - '9:30 PM'
 schedule:
-  - name: Monday
+  - name: Monday 周一
+  - name: Tuesday 周二
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
-  - name: Wednesday
+        - name: Lecture 课程
+          start: 6:00 PM
+          end: 8:20 PM
+          location: 东中院 4-102
+  - name: Wednesday 周三
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Office Hours 
+        start: 2:00 PM
+        end: 4:00 PM
+        location: 学生创新中心 B300 
+  - name: Thursday 周四
+  - name: Friday 周五
 ---
