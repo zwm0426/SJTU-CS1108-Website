@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule 日程
+title: Schedule 周日程
 description: The weekly event schedule.
 ---
 
